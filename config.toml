@@ -1,4 +1,5 @@
-baseURL = "http://www.musicamata.fr"
+publishDir = "docs"
+baseURL = "https://boissonnat.github.io/musica-amata.com"
 languageCode = "fr-FR"
 title = "Musica Amata"
 theme = "ananke"
