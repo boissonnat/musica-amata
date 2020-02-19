@@ -1,7 +1,7 @@
 ---
 title: "Bach Chez Bernie"
 date: 2020-02-19T17:09:04+01:00
-draft: true
+draft: false
 ---
 
 # J-S. Bach chez Bernie

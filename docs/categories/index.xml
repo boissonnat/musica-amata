@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Musica Amata</title>
-    <link>https://boissonnat.github.io/musica-amata.com/categories/</link>
+    <link>https://boissonnat.github.io/musica-amata/categories/</link>
     <description>Recent content in Categories on Musica Amata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
-	<atom:link href="https://boissonnat.github.io/musica-amata.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://boissonnat.github.io/musica-amata/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

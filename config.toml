@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "https://boissonnat.github.io/musica-amata.com"
+baseURL = "https://boissonnat.github.io/musica-amata"
 languageCode = "fr-FR"
 title = "Musica Amata"
 theme = "ananke"
