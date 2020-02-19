@@ -1,0 +1,4 @@
+baseURL = "http://www.musicamata.fr"
+languageCode = "fr-FR"
+title = "Musica Amata"
+theme = "ananke"
